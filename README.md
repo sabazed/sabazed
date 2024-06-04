@@ -44,16 +44,16 @@ class SoftwareEngineer extends ComputerScientist {
 https://sabazed.github.io/portfolio/
 
 <h3 class="source">Programming Languages</h3>
-<img src="https://skills.thijs.gg/icons?i=java,python,c,cs,html,css,js,ts,ocaml&theme=dark">
+<img src="https://skillicons.dev/icons?i=java,python,c,cs,html,css,js,ts,ocaml&theme=dark">
 
 <h3 class="source">Frameworks and Tools</h3>
-<img src="https://skills.thijs.gg/icons?i=spring,hibernate,react,aws,kafka,docker,git,postman&theme=dark">
+<img src="https://skillicons.dev/icons?i=spring,hibernate,react,aws,kafka,docker,git,postman&theme=dark">
 
 <h3 class="source">Databases</h3>
-<img src="https://skills.thijs.gg/icons?i=postgresql,mongodb,mysql&theme=dark">
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=dark">
 
 <h3 class="source">Other</h3>
-<img src="https://skills.thijs.gg/icons?i=ps,pr,ai&theme=dark">
+<img src="https://skillicons.dev/icons?i=ps,pr,ai&theme=dark">
 
 <h3 class="source">Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabazed&langs_count=10&show_icons=true&locale=en&layout=compact">
