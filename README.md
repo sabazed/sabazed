@@ -15,7 +15,7 @@ font-family: 'Maven Pro';
 <span class="mvn">Software engineer with a <b>great</b> passion for programming</span>
 
 ```java
-class SoftwareEngineer extends ComputerScientist {
+class SoftwareEngineer extends ComputerScientist implements Developer {
 
     private String name, position;
     private String[] experience;
@@ -26,6 +26,7 @@ class SoftwareEngineer extends ComputerScientist {
         this.experience = experience;
     }
 
+    @Override
     public void helloWorld() {
         System.out.println("Programming is my passion, which encourages me to" +
                            "keep a golden ratio of being both a computer scientist" +
