@@ -56,8 +56,8 @@ https://sabazed.github.io/portfolio/
 <h3 class="source">Other</h3>
 <img src="https://skillicons.dev/icons?i=ps,pr,ai&theme=dark">
 
-<h3 class="source">Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabazed&langs_count=10&show_icons=true&locale=en&layout=compact">
+<!-- <h3 class="source">Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabazed&langs_count=10&show_icons=true&locale=en&layout=compact"> -->
 
 <h3 class="source">Contact</h3>
 <ul>
